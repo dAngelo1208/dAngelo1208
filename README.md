@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi
-I'm a phD student from Sichuan University, major in electric engineering.
+phD student, major in electric engineering, ai for ee.
